@@ -1,8 +1,11 @@
-### Olá me chamo João Vitor Nascimento
+### Olá me chamo João Vitor Nascimento (Hello, my name is João Vitor Nascimento)
 
 
-### Seja Bem Vindo ao meu Perfil.
+### Seja Bem Vindo ao meu Perfil. (Welcome to my profile.)
+
 ### Sou Programador voltado a área de Backend e Programador Indie de Jogos.
+
+(I am a Programmer focused on the Backend area and Indie Games Programmer)
 
 ![João Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonascimentooo&show_icons=true&theme=dark)
 

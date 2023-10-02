@@ -4,9 +4,9 @@
 ### Seja Bem Vindo ao meu Perfil.
 ### Sou Programador voltado a área de Backend e Programador Indie de Jogos.
 
-![João Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=ssjJovi&show_icons=true&theme=dark)
+![João Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonascimentooo&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssjJovi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact)
 
 ##Tecnologias que estou usando no momento:
 

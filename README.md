@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact)
 
-##Tecnologias que estou usando no momento:
+## Tecnologias que estou usando no momento:
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />

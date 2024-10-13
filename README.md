@@ -3,7 +3,7 @@
 
 ### Seja Bem Vindo ao meu Perfil. (Welcome to my profile.)
 
-### Sou Programador voltado a área de Backend e Programador Indie de Jogos.
+### Sou Programador voltado a área FullStack e Programador Indie de Jogos.
 
 (I am a Programmer focused on the Backend area and Indie Games Programmer)
 

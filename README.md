@@ -5,6 +5,7 @@
 Sou um desenvolvedor FullStack com foco no **Backend** e apaixonado por desenvolvimento **Indie de Jogos**. Atualmente, estou desenvolvendo projetos que combinam minhas habilidades em programação e jogos, além de estar sempre em busca de novos desafios para melhorar minhas capacidades.
 
 ---
+<img src="https://visitor-badge.laobi.icu/badge?page_id=joaonascimentooo.joaonascimentooo" />
 
 ## 🚀 Minhas Estatísticas
 

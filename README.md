@@ -4,8 +4,9 @@
 
 Sou um desenvolvedor FullStack com foco no **Backend** e apaixonado por desenvolvimento **Indie de Jogos**. Atualmente, estou desenvolvendo projetos que combinam minhas habilidades em programação e jogos, além de estar sempre em busca de novos desafios para melhorar minhas capacidades.
 
----
-<img src="https://visitor-badge.laobi.icu/badge?page_id=joaonascimentooo.joaonascimentooo" />
+![Visitantes](https://komarev.com/ghpvc/?username=joaonascimentooo&style=flat-square)
+
+
 
 ## 🚀 Minhas Estatísticas
 
@@ -16,12 +17,15 @@ Sou um desenvolvedor FullStack com foco no **Backend** e apaixonado por desenvol
 ---
 ## 🛠️ Tecnologias que estou usando atualmente
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 Tecnologias e Ferramentas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ---
 ## 💡 Sobre Mim

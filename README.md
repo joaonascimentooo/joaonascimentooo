@@ -11,7 +11,7 @@ Sou um desenvolvedor FullStack com foco no **Backend** e apaixonado por desenvol
 
 ![João Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonascimentooo&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark)
 
 ---
 ## 🛠️ Tecnologias que estou usando atualmente

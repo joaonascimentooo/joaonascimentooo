@@ -24,7 +24,7 @@
 
 Sou um desenvolvedor apaixonado por criar soluções robustas e jogos criativos. Atualmente cursando **Sistemas de Informação**.
 
-- 🔭 Atualmente trabalhando em: **Projetos FullStack e Jogos Indie**
+- 🔭 Atualmente trabalhando em: **Projetos FullStack com IA e Mobile**
 - 🌱 Estudando: **Arquitetura de Software e Game Design**
 - ⚡ Curiosidade: Adoro combinar lógica de programação com narrativas de jogos.
 
@@ -34,16 +34,19 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e jogos criativos.
 
 <div align="center">
 
-  **Linguagens**<br>
+  **Linguagens & Runtimes**<br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-  <br>**Frameworks & Bibliotecas**<br>
+  <br>**Frameworks, Mobile & IA**<br>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-  <br>**Banco de Dados & Outros**<br>
+  <br>**Banco de Dados**<br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>

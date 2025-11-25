@@ -56,8 +56,6 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e jogos criativos.
 ### 🚀 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaonascimentooo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaonascimentooo&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark"/>
 </div>

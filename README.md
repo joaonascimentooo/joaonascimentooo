@@ -56,6 +56,18 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e jogos criativos.
 ### 🚀 Minhas Estatísticas
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaonascimentooo&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaonascimentooo&theme=react-dark" alt="Activity Graph" />
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/joaonascimentooo/joaonascimentooo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaonascimentooo&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>

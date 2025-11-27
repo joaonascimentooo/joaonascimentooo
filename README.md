@@ -44,6 +44,7 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e jogos criativos.
   <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
   <br>**Banco de Dados**<br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -63,11 +64,14 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e jogos criativos.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaonascimentooo&theme=react-dark" alt="Activity Graph" />
 
   <br/><br/>
-
-
-
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaonascimentooo&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaonascimentooo&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaonascimentooo&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>

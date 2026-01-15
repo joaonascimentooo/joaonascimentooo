@@ -1,14 +1,8 @@
 <div align="center">
   <h1>Olá! Eu sou o João Vitor Nascimento 👋</h1>
-  <h3>Desenvolvedor FullStack | Backend Focus | Indie Game Dev 🎮</h3>
+  <h3>Desenvolvedor FullStack | Arquiteto Backend | Indie Game Dev 🎮</h3>
 
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=joaonascimentooo&style=flat-square">
-      <img src="https://komarev.com/ghpvc/?username=joaonascimentooo&style=flat-square" alt="Visitantes">
-    </a>
-  </p>
-
-  <p>
+  <p align="center">
     <a href="https://www.linkedin.com/in/joão-vitor-nascimento1/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -22,56 +16,38 @@
 
 ### 💡 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções robustas e jogos criativos. Atualmente cursando **Sistemas de Informação**.
+Moro em **Maranhão, Brasil**, e sou apaixonado por criar soluções robustas no Backend e narrativas imersivas em jogos. Atualmente, curso **Sistemas de Informação no CEST**.
 
-- 🔭 Atualmente trabalhando em: **Projetos FullStack com IA e Mobile**
-- 🌱 Estudando: **Arquitetura de Software e Game Design**
-- ⚡ Curiosidade: Adoro combinar lógica de programação com narrativas de jogos.
+- 🔭 **Experiência Recente:** Arquiteto Backend no **Project Centra**, focando em microsserviços e integração com Google Gemini AI.
+- 🎮 **Indie Game Dev:** Entusiasta de desenvolvimento independente e mecânicas de jogo.
+- 🌱 **Especialista em Java:** Experiência com **Spring Boot**, Spring Security e Spring AI.
+- ⚡ **Curiosidade:** Adoro unir lógica de programação com o world-building de campanhas de RPG.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-
-  **Linguagens & Runtimes**<br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-  <br>**Frameworks, Mobile & IA**<br>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-
-  <br>**Banco de Dados**<br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,python,fastapi,react,nextjs,postgres,mysql,docker,aws,kubernetes" />
 </div>
 
 ---
 
-### 🚀 Minhas Estatísticas
+### 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaonascimentooo&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  
-  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaonascimentooo&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaonascimentooo&theme=react-dark" alt="Activity Graph" />
+---
 
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaonascimentooo&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  
-  <br/><br/>
+### 🏗️ Projetos em Destaque
+* **Project Centra:** Marketplace com arquitetura backend avançada e IA integrada.
+* **LibraryMindXandria:** Sistema completo para gestão de bibliotecas desenvolvido com Java e Spring Boot.
+* **Trilha Lumina:** Atuei como instrutor de minicursos de Spring Boot no CEST.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=joaonascimentooo&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  
-  <br/><br/>
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentooo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<div align="center">
+  <sub>"Código limpo é código que parece ter sido escrito por alguém que se importa."</sub>
 </div>

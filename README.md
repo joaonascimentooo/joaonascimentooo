@@ -41,6 +41,17 @@ Moro em **Maranhão, Brasil**, e sou apaixonado por criar soluções robustas no
 
 ---
 
+### 📊 Estatísticas Detalhadas
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaonascimentooo&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaonascimentooo&theme=dark" alt="Most Commit Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaonascimentooo&theme=dark" alt="Profile Details" />
+</div>
+
 ### 🏗️ Projetos em Destaque
 * **Project Centra:** Marketplace com arquitetura backend avançada e IA integrada.
 * **LibraryMindXandria:** Sistema completo para gestão de bibliotecas desenvolvido com Java e Spring Boot.

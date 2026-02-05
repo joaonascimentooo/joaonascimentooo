@@ -33,14 +33,6 @@ Moro em **Maranhão, Brasil**, e sou apaixonado por criar soluções robustas no
 
 ---
 
-### 📊 Estatísticas & Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaonascimentooo&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 ### 📊 Estatísticas Detalhadas
 
 <div align="center">
@@ -51,6 +43,7 @@ Moro em **Maranhão, Brasil**, e sou apaixonado por criar soluções robustas no
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaonascimentooo&theme=dark" alt="Profile Details" />
 </div>
+
 
 ### 🏗️ Projetos em Destaque
 * **Project Centra:** Marketplace com arquitetura backend avançada e IA integrada.

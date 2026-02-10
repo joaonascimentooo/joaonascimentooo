@@ -47,7 +47,7 @@ Moro em **Maranhão, Brasil**, e sou apaixonado por criar soluções robustas no
 
 ### 🏗️ Projetos em Destaque
 * **Project Centra:** Marketplace com arquitetura backend avançada e IA integrada.
-* **LibraryMindXandria:** Sistema completo para gestão de bibliotecas desenvolvido com Java e Spring Boot.
+* **FlashPay:** Simulação de um picpay usando Springboot e PostgreSQL
 * **Trilha Lumina:** Atuei como instrutor de minicursos de Spring Boot no CEST.
 
 ---

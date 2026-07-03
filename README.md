@@ -45,13 +45,6 @@ Moro em **Maranhão, Brasil**, e sou apaixonado por criar soluções robustas no
 </div>
 
 
-### 🏗️ Projetos em Destaque
-* **Project Centra:** Marketplace com arquitetura backend avançada e IA integrada.
-* **FlashPay:** Simulação de um picpay usando Springboot e PostgreSQL
-* **Trilha Lumina:** Atuei como instrutor de minicursos de Spring Boot no CEST.
-
----
-
 <div align="center">
   <sub>"Código limpo é código que parece ter sido escrito por alguém que se importa."</sub>
 </div>

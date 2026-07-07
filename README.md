@@ -117,11 +117,16 @@ Atualmente venho aprofundando meus conhecimentos em desenvolvimento FullStack, a
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaonascimentooo&theme=github_dark" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=joaonascimentooo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaonascimentooo&theme=github_dark" alt="Most Commit Languages" />
+<br />
+<br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaonascimentooo&theme=github_dark" alt="Profile Details" />
+<a href="https://github.com/joaonascimentooo">
+  <img src="https://img.shields.io/badge/GitHub-joaonascimentooo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=joaonascimentooo&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
 
